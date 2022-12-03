@@ -3,7 +3,7 @@
 [![Contributions](https://img.shields.io/badge/contributions-bem_vindo-green.svg)](https://shields.io/)
 
 <p align="center">
-  <img src="https://img.freepik.com/vetores-gratis/dados-informam-o-conceito-de-ilustracao_114360-864.jpg?w=1380&t=st=1669730753~exp=1669731353~hmac=60d4f5473160cdd5855924019a64f8c8360116073f74e0b02f0ecdbc22846971" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://raw.githubusercontent.com/raffaelhfarias/Dados_Airbnb/main/imgens/Veneza_Airbnb_int.png" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 ## Analisando Dados do Airbnb
@@ -14,7 +14,7 @@ Conectando pessoas que querem viajar (e se hospedar) com anfitriões que querem 
 
 No final de 2018, a Startup fundada 10 anos atrás, já havia **hospedado mais de 300 milhões** de pessoas ao redor de todo o mundo, desafiando as redes hoteleiras tradicionais.
 
-[Link para o projeto completo](https://colab.research.google.com/drive/12J3zWhlGFRz6t3hKqm7fdYTcEuW9iWc5?usp=sharing)
+[Link para o projeto completo](https://colab.research.google.com/drive/1W2vPeUMElR8lpUFdRKGwdBZ0hKJrhyq_?usp=sharing)
 
 **Links para me acharem:**
 * [Medium](https://medium.com/@raffaelhfarias)
