@@ -3,7 +3,7 @@
 [![Contributions](https://img.shields.io/badge/contributions-bem_vindo-green.svg)](https://shields.io/)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raffaelhfarias/Dados_Airbnb/main/imgens/Veneza_Airbnb_int.png" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://raw.githubusercontent.com/raffaelhfarias/Dados_Airbnb/main/imgens/Veneza_Airbnb_int.png" alt="imagem maneira relacionada ao projeto">
 </p>
 
 ## Analisando Dados do Airbnb
