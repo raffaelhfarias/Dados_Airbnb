@@ -14,7 +14,7 @@ Conectando pessoas que querem viajar (e se hospedar) com anfitriões que querem 
 
 No final de 2018, a Startup fundada 10 anos atrás, já havia **hospedado mais de 300 milhões** de pessoas ao redor de todo o mundo, desafiando as redes hoteleiras tradicionais.
 
-[Link para o projeto completo](https://colab.research.google.com/drive/1W2vPeUMElR8lpUFdRKGwdBZ0hKJrhyq_?usp=sharing)
+[Link para o projeto completo](https://github.com/raffaelhfarias/Dados_Airbnb/blob/main/Analise_os_Dados_do_Airbnb_Veneza.ipynb)
 
 **Links para me acharem:**
 * [Medium](https://medium.com/@raffaelhfarias)
